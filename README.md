@@ -30,6 +30,8 @@
   - Learning it to use it in our game!
 - Pandas and numpy
   - Still learning syntax of those libraries for python!
+- Artifitial intelligence
+  - I am learning it in class!
 
 <!---
 Programmerryoki/Programmerryoki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
