@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Programmerryoki  
 - I am a student at San Jose State University, and persuing Applied and Computational Mathematics.  
 # This site below will have more detailed information!
-https://programmerryoki.github.io/home
+https://programmerryoki.github.io/
 ## Some Repositories that I am working on right now!
 - SCE Organizations (https://github.com/SCE-Development)
   - I am in a dev team and creating / created
